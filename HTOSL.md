@@ -1,4 +1,4 @@
-## He TongXue Open Source License (HTOSL)
+## He TongXue License (HTL)
 
 #### English Version
 
@@ -6,11 +6,11 @@ Version 1.0, 2024
 
 Copyright (C) [Year] [Owner]
 
-This software is released under the **He TongXue Open Source License (HTOSL)**. The goal of this license is to maximize freedom for users while ensuring no association, credit, or attribution to the original authors or project.
+This software is released under the **He TongXue License (HTL)**. The goal of this license is to maximize freedom for users while ensuring no association, credit, or attribution to the original authors or project.
 
 ### *Preamble*
 
-The He TongXue Open Source License (HTOSL) provides absolute freedom to use, modify, and distribute this software for any purpose. Unlike traditional open-source licenses, HTOSL explicitly prohibits attribution to the original authors or the project in any form. This ensures that derivative works are treated as completely independent creations.
+The He TongXue License (HTL) provides absolute freedom to use, modify, and distribute this software for any purpose. Unlike traditional open-source licenses, HTOSL explicitly prohibits attribution to the original authors or the project in any form. This ensures that derivative works are treated as completely independent creations.
 
 By using this license, the original authors fully relinquish any claims of ownership or copyright, and users are not required to acknowledge the original source in any manner. This allows developers to focus solely on their own creations without the need to consider the history or origin of the code.
 
@@ -78,7 +78,7 @@ By using this license, the original authors fully relinquish any claims of owner
 To apply this license to your work, add the following text at the beginning of your source code files:
 ```
 Copyright (C) [Year] [Your Name or Organization]  
-This software is licensed under the He TongXue Open Source License (HTOSL).
+This software is licensed under the He TongXue License (HTL).
 ```
 
 ---
@@ -89,11 +89,11 @@ This software is licensed under the He TongXue Open Source License (HTOSL).
 
 版权所有 (C) [年份] [版权所有者]
 
-本软件根据 **何同学开源许可协议（He TongXue Open Source License, HTOSL）** 发布。此协议的目标是为用户提供最大的自由，同时确保原作者及项目不会以任何形式被关联、引用或标注。
+本软件根据 **何同学许可协议（He TongXue  License, HTL）** 发布。此协议的目标是为用户提供最大的自由，同时确保原作者及项目不会以任何形式被关联、引用或标注。
 
 #### 序言
 
-完全自由开源许可协议（HTOSL）旨在为开发者提供绝对的自由，允许项目被用于任何目的并完全脱离原项目的身份标识。不同于传统开源协议，HTOSL 明确禁止对原作者或项目的归属标注，确保所有衍生作品均被视为完全独立的创作。
+何同学许可协议（HTL）旨在为开发者提供绝对的自由，允许项目被用于任何目的并完全脱离原项目的身份标识。不同于传统开源协议，HTOSL 明确禁止对原作者或项目的归属标注，确保所有衍生作品均被视为完全独立的创作。
 
 通过使用此协议，原作者完全放弃所有版权及所有权主张，用户无需以任何方式确认或引用原始来源。这种设计使开发者能够专注于自己的创造，而不受代码来源的限制。
 
@@ -160,5 +160,5 @@ This software is licensed under the He TongXue Open Source License (HTOSL).
 在您的源代码文件开头加入以下文本：
 ```
 版权所有 (C) [年份] [您的姓名或组织]  
-本软件根据完全自由开源许可协议（He TongXue Open Source License, HTOSL）授权发布。
+本软件根据何同学许可协议（He TongXue License, HTOSL）授权发布。
 ```
