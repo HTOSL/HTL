@@ -1,6 +1,6 @@
 ### 何同学开源协议 （HTL)
 
-本许可证由 BiliBili UP **老师好我叫和同学** 使用ASCII-generator项目违反开源协议而出现。
+本许可证由 BiliBili UP **老师好我叫何同学** 使用ASCII-generator项目违反开源协议而出现。
 
 #### *协议核心*
 * 1、禁止归属和关联
